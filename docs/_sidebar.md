@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### V 1.1.X  
 For [V2 docs click here](https://github.com/wix/react-native-navigation/tree/v2)
 
@@ -18,3 +19,24 @@ For [V2 docs click here](https://github.com/wix/react-native-navigation/tree/v2)
   - [Adding Buttons to the Navigator](/adding-buttons-to-the-navigator)
   - [Styling the Tab Bar](/styling-the-tab-bar)
   
+=======
+- [Home](/)
+- Getting Started
+  - [Installing](/docs/Installing)
+  - [Working Locally](/docs/WorkingLocally)
+  - [Usage](/docs/Usage)
+  - [Showcases](/docs/Showcases)
+- Guide
+  - [Top Level](/docs/top-level-api)
+  - [Screen](/docs/screen-api)
+  - [Events](/docs/events)
+  - [Layouts](/docs/layout-types)
+  - [Styling](/docs/styling)
+  - [TopBar Buttons](/docs/topBar-buttons) 
+  - [Animations](/docs/animations)
+  - [Constants](/docs/constants)
+- Migration from v1
+  - [Top Level](/docs/top-level-api-migration)
+  - [Options](/docs/options-migration)
+- [API](/api/README)
+>>>>>>> fe6db481607ed06cf96fe2d675aea667921ce051
